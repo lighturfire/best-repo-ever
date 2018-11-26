@@ -1,3 +1,3 @@
 # best-repo-ever
 
-New Branch test
+New Branch 1 Conflict Inducing
